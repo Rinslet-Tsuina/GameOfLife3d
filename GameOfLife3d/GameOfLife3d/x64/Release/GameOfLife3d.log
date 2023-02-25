@@ -1,0 +1,14 @@
+﻿  gameOfLife.cpp
+  GameOfLife3d.cpp
+  listePoints.cpp
+C:\Users\orlan\source\repos\GameOfLife3d\GameOfLife3d\listePoints.cpp(8,20): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+  ListeVoisin.cpp
+  plateau.cpp
+  plateauPartiel.cpp
+  point.cpp
+  voisin.cpp
+  Génération de code en cours
+  Previous IPDB not found, fall back to full compilation.
+  All 374 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Fin de la génération du code
+  GameOfLife3d.vcxproj -> C:\Users\orlan\source\repos\GameOfLife3d\x64\Release\GameOfLife3d.exe
